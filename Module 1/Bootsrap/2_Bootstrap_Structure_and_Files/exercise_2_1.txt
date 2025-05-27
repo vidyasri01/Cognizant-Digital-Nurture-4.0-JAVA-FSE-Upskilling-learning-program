@@ -1,0 +1,3 @@
+CSS: Contains compiled Bootstrap CSS files for styling your project.
+JS: Contains Bootstrap JavaScript plugins for UI behavior like modals, dropdowns, etc.
+icons: Optional Bootstrap Icons for UI elements like arrows, social icons, etc.
